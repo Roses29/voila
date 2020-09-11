@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser supermarket_sales(1).ipynb
+web: voila --port=$PORT --no-browser app.ipynb
